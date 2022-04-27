@@ -1,0 +1,42 @@
+body {
+    background-image: url("images/pattern-minimalist-background-triangle-kbibibi.jpg");
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+.txt{
+    background-color: white;
+    display: block;
+    border-radius: 25px;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.in{
+    display: block;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    height:25px;
+    width: 50%;
+}
+
+.button1{
+    display: block;
+    background-color: white;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    height:30px;
+    width: 25%;
+}
+
