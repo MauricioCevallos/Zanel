@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/pattern-minimalist-background-triangle-kbibibi.jpg");
+    background-image: url("../images/pattern-minimalist-background-triangle-kbibibi.jpg");
 }
 
 .logo{
@@ -39,4 +39,5 @@ body {
     height:30px;
     width: 25%;
 }
+
 
